@@ -9,7 +9,6 @@ This project is an Exploratory Data Analysis (EDA) of Global YouTube Statistics 
 - In-depth exploration of user engagement, content categories, and geographic distributions.
 
 ## Technologies Used
-- HTML for the report structure.
 - Jupyter Notebook for data analysis and visualization.
 - Data visualization libraries such as Matplotlib, Seaborn, or Plotly.
 
