@@ -74,9 +74,9 @@ It contains 995 rows and 21 columns
 
 ## Factors affecting Avg Estimated monthly Earnings
 ![image](https://github.com/user-attachments/assets/3a631bc2-1c69-405e-81ab-46a8f1252b16)
-Subscribers                       (42.5%)
-Video Views                       (59.4%)
-Uploads                           (16.4%)
+Subscribers                       (42.5%),
+Video Views                       (59.4%),
+Uploads                           (16.4%),
 Subscribers For Last 30 Days      (67.3%)
 
 The two major variables highly correlated to Avg Estimated monthly Earnings are Video Views and subscribers. Uploads show very low correlation with Avg Estimated monthly Earnings.
