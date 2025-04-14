@@ -1,4 +1,4 @@
-# Global YouTube Statistics 2023 - Exploratory Data Analysis
+# Global YouTube Statistics 2023
 <div style="text-align: center;">
   <img src="you.jpg" alt="image" style="width:600px; height:auto;" />
 </div>
@@ -54,7 +54,7 @@ It contains 995 rows and 21 columns
 - Checked for data quality (excluded rows with with "Created date" before Youtube launch
 - Averged columns "Lowest Monthly Earnings" and "highest Monthly Earnings" to created a new column for better analysis
 
-## EDA
+## Exploratory Data Analysis
 - Top 10 Youtubers in terms of Subscribers
 ![image](https://github.com/user-attachments/assets/ebbab55f-c007-4b76-a80d-0b5b00443736)
 
