@@ -1,5 +1,7 @@
 # Global YouTube Statistics 2023 - Exploratory Data Analysis
-![image](you.jpg)
+<div style="text-align: center;">
+  <img src="you.jpg" alt="image" style="width:600px; height:auto;" />
+</div>
 
 ## TABLE OF CONTENT
 - [GENERAL OVERVIEW](#general-overview)
