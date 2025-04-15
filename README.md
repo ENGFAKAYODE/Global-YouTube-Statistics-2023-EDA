@@ -30,12 +30,11 @@ The main goals of this analysis are to:
 - Data Visualization using Python libraries (e.g., Seaborn, Matplotlib)
 - Data Cleaning
 - Interpretation of data trends and correlations
-- Critical Thinking.
+- Critical Thinking
 - Data transformation
 
 ## DATA SOURCE
-The analysis is based on a dataset of global YouTube statistics for 2023 on www.Kaggle.com
-It contains 995 rows and 21 columns
+The analysis is based on a dataset of global YouTube statistics for 2023 on www.Kaggle.com. It contains 995 rows and 21 columns
 ![image](https://github.com/user-attachments/assets/994aba60-5dbc-4896-b191-7f2a5c1af9b4)
 
 ## DATA TOOLS
@@ -84,12 +83,12 @@ Subscribers For Last 30 Days      (67.3%)
 The two major variables highly correlated to Avg Estimated monthly Earnings are Video Views and subscribers. Uploads show very low correlation with Avg Estimated monthly Earnings.
 
 ## INSIGHTS
-- "T-Series" is the most subscribed channel with 245M, followed by "Youtube Movies" with 170M
-- "T-series" is the channel withe most video views with 228B, followed by "Cocomelon - Nursery Rhymes" with 164B
+- "T-Series" is the most subscribed channel with 245M, followed by "Youtube Movies" with 170M.
+- "T-series" is the channel withe most video views with 228B, followed by "Cocomelon - Nursery Rhymes" with 164B.
 - Video Views and Subcribers are highly correlated. And Channels with more subscribers do have more views.
-- No. of uploads shows a very low correlation with subcribers (0.08) and video views(0.17)
-- Average Estimated monthly earnings correlates with video views, increase in video views led to an increase in Average Estimated monthly earnings
-- Music & Entertainment leads with the most subscribers, video views and Average Estimated monthly earnings by Category
+- No. of uploads shows a very low correlation with subcribers (0.08) and video views(0.17).
+- Average Estimated monthly earnings correlates with video views, increase in video views led to an increase in Average Estimated monthly earnings.
+- Music & Entertainment leads with the most subscribers, video views and Average Estimated monthly earnings by Category.
 - The two major variables highly correlated to Avg Estimated monthly Earnings are Video Views and subscribers. Uploads show very low correlation with Avg Estimated monthly Earnings.
 
 ## RECOMMENDATION
